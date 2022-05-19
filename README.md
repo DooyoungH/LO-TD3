@@ -7,7 +7,7 @@ This page is the implementation of Lifelong Offline Twin Delayed Deep Determinis
 Drone delivery systems require a suitable RL algorithm since the training process of the drone through the conventional RL algorithm places too much burden on the hardware and when they consider changes like the climate or operation environments.
 Therefore, we propose the Lifelong Offline Twin Delayed Deep Deterministic policy gradient (LO-TD3) for the drone delivery inspired by Offline RL and CL.
 
-*Notice: Because of Offline RL that is initial networks of LO-TD3, we higly recommand use above 64GB RAM system on the running computer if you train the overall model.  
+*Notice: Because of Offline RL that is initial networks of LO-TD3, we higly recommand using the your system above 64GB RAM if you reproduce the overall model.  
 
 
 LO-TD3 requires huge calculation resources. So, we also present the toy example using OpenAI GYM. 
