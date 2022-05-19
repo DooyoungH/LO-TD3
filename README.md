@@ -10,5 +10,5 @@ Therefore, we propose the Lifelong Offline Twin Delayed Deep Deterministic polic
 *Notice: Because of Offline RL that is initial networks of LO-TD3, we higly recommand using the your system above 64GB RAM if you reproduce the overall model.  
 
 
-LO-TD3 requires huge calculation resources. So, we also present the toy example using OpenAI GYM. 
+LO-TD3 requires huge calculation resources. So, we also present a toy example using OpenAI GYM. 
 It can be running by:
